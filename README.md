@@ -3,7 +3,7 @@
 ## "MEDICINE REMINDER" – APLIKASI PENGINGAT MINUM OBAT
 
 ## APLIKASI PROJECT UJIAN AKHIR SEMESTER PEMROGRAMAN MOBILE, DOWNLOAD DISINI YAA
-https://drive.google.com/drive/folders/1eXjFqR9jva1tHC7Rgg3e63ITaq4IRdl_?usp=sharing
+Ini link nya: https://drive.google.com/drive/folders/1eXjFqR9jva1tHC7Rgg3e63ITaq4IRdl_?usp=sharing
 
 ## Oleh :
 Jingga Venatha Lisdabrani - 2315091027 - 4C
