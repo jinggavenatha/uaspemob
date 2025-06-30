@@ -5,7 +5,7 @@ https://drive.google.com/drive/folders/1eXjFqR9jva1tHC7Rgg3e63ITaq4IRdl_?usp=sha
 
 ## ATAU DOWNLOAD APK DISINI
 Download aplikasi Lapor Kampus untuk Android:
-- [Medicine Reminder](releases/MedicineReminder.apk) - Versi terbaru
+- [Medicine Reminder](build/app/outputs/flutter-apk/MedicineReminder.apk)
 
 ## UJIAN AKHIR SEMESTER PEMROGRAMAN MOBILE
 
