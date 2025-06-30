@@ -3,6 +3,10 @@
 ## APLIKASI PROJECT UJIAN AKHIR SEMESTER PEMROGRAMAN MOBILE, DOWNLOAD DISINI YAA
 https://drive.google.com/drive/folders/1eXjFqR9jva1tHC7Rgg3e63ITaq4IRdl_?usp=sharing
 
+## ATAU DOWNLOAD APK DISINI
+Download aplikasi Lapor Kampus untuk Android:
+- [Medicine Reminder](releases/MedicineReminder.apk) - Versi terbaru
+
 ## UJIAN AKHIR SEMESTER PEMROGRAMAN MOBILE
 
 "MEDICINE REMINDER" – APLIKASI PENGINGAT MINUM OBAT
