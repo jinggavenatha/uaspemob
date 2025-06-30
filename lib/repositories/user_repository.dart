@@ -185,13 +185,13 @@ class UserRepository {
   Future<void> insertDefaultUser() async {
     try {
       print('Checking if default user exists...');
-      final emailExists = await this.emailExists('Jenath@gmail.com');
+      final emailExists = await this.emailExists('jenath@gmail.com');
 
       if (!emailExists) {
         print('Creating default user...');
         final defaultUser = User(
-          name: 'Jenath',
-          email: 'Jenath@gmail.com',
+          name: 'Jingga Venatha',
+          email: 'jenath@gmail.com',
           password: 'asdasd',
         );
         final id = await createUser(defaultUser);
